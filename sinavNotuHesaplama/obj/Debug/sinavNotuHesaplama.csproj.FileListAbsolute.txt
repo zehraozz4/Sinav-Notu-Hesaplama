@@ -1,0 +1,7 @@
+C:\Users\ASUS\OneDrive\Masaüstü\c#\sinavNotuHesaplama\sinavNotuHesaplama\bin\Debug\sinavNotuHesaplama.exe.config
+C:\Users\ASUS\OneDrive\Masaüstü\c#\sinavNotuHesaplama\sinavNotuHesaplama\bin\Debug\sinavNotuHesaplama.exe
+C:\Users\ASUS\OneDrive\Masaüstü\c#\sinavNotuHesaplama\sinavNotuHesaplama\bin\Debug\sinavNotuHesaplama.pdb
+C:\Users\ASUS\OneDrive\Masaüstü\c#\sinavNotuHesaplama\sinavNotuHesaplama\obj\Debug\sinavNotuHesaplama.csproj.AssemblyReference.cache
+C:\Users\ASUS\OneDrive\Masaüstü\c#\sinavNotuHesaplama\sinavNotuHesaplama\obj\Debug\sinavNotuHesaplama.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\OneDrive\Masaüstü\c#\sinavNotuHesaplama\sinavNotuHesaplama\obj\Debug\sinavNotuHesaplama.exe
+C:\Users\ASUS\OneDrive\Masaüstü\c#\sinavNotuHesaplama\sinavNotuHesaplama\obj\Debug\sinavNotuHesaplama.pdb
